@@ -9,3 +9,4 @@ Alezon Maxine G. Valerio
 
 screencast: https://www.youtube.com/watch?v=JI0BWIBjYRQ
 software:	https://gitlab.com/team-mvp/UP-BikeShare
+invitation for beta-testing video: https://www.youtube.com/watch?v=tCOn7YFnES0&feature=youtu.be
